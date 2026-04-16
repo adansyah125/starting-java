@@ -11,7 +11,6 @@ public class latihan1 {
             this.nama = nama;
             this.harga = harga;
         }
-
         @Override
         public String toString() {
             return "{" + nama + ", " + harga + "}";
